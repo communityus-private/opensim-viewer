@@ -1,0 +1,4 @@
+[submodule "Xenko"]
+	path = Xenko
+	url = https://github.com/communityus-private/xenko.git
+	branch = master-3.0a6
